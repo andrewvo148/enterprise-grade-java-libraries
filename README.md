@@ -1,2 +1,2 @@
-# enterprise-grade-java-libraries
+# Enterprise Grade Java Libraries
 List of enterprise grade java libraries
